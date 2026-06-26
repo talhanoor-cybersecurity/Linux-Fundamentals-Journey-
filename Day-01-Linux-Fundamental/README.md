@@ -196,6 +196,10 @@ Stay tuned for **Day 2**!
 
 If you're also learning Linux or Cybersecurity, feel free to explore this repository, share feedback, or connect with me.
 
+
+## 🌐 Connect With Me
+🔗 LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/talhanoor-cybersecurity/)
+
 ---
 
 ### 📌 Repository Tags
