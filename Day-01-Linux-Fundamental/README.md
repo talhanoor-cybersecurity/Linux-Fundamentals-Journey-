@@ -180,7 +180,7 @@ These concepts form the foundation for learning:
 
 ## 🖼️ Linux Fundamental Diagram
 
-![Linux Fundamental Diagram](Linux-fundamental-basics.png.png)
+![Linux Fundamental Diagram](linux-fundamental-basics.png.png)
 
 ---
 
