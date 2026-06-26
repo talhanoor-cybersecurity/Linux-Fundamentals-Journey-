@@ -178,6 +178,8 @@ These concepts form the foundation for learning:
 - DevOps
 - Cloud Computing
 
+## 🖼️ Linux Fundamental Diagram
+
 ![Linux Fundamental Diagram](Linux-fundamental-basics.png.png)
 
 ---
