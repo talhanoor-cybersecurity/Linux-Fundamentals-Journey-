@@ -146,6 +146,10 @@ Every expert starts with the basics, and I'm committed to learning one step at a
 
 On **Day 3**, I will begin learning basic Linux commands and practice navigating the Linux file system using the terminal.
 
+
+## 🌐 Connect With Me
+🔗 LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/talhanoor-cybersecurity/)
+
 ---
 
 ## 📌 Summary
