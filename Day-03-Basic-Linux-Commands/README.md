@@ -229,8 +229,8 @@ cat notes.txt
 - Built a strong foundation for Linux and Cybersecurity.
 - Improved confidence in using the Linux terminal.
 
-## 🖼️ Basic Linux Commands
-![Basic Linux Commands](basic-linux-commands-overview.png.png)
+## 🖼️ Basic Linux Commands Diagram
+![Basic Linux Commands Diagram](basic-linux-commands-overview.png.png)
 
 ---
 
